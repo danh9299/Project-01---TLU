@@ -1,0 +1,32 @@
+.header{
+    padding: 0px 0px;
+}
+
+.title-name p1{
+    font-size: x-large;
+    color:rgb(119, 119, 119);
+}   
+
+.intro{
+    text-align: justify;
+}
+
+.des-title{
+    font-weight: 100;
+    color:rgb(100, 100, 100);
+}
+
+.des-item{
+    font-size: large;
+     
+}
+
+.des-link{
+    font-size:20px;
+}
+
+/*css for footer*/
+
+.footer{
+    background-color:rgb(236, 236, 236);
+}
